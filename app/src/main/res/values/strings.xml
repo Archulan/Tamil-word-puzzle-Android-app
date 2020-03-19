@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Thamizh Word Puzzle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="cell1">1</string>
+    <string name="cell2">2</string>
+    <string name="cell3">3</string>
+    <string name="cell4">4</string>
+    <string name="cell5">5</string>
+    <string name="cell6">6</string>
+
+    <string name="cell7">7</string>
+    <string name="cell8">8</string>
+    <string name="cell9">9</string>
+    <string name="cell10">10</string>
+    <string name="cell11">11</string>
+    <string name="cell12">12</string>
+
+    <string name="cell13">13</string>
+    <string name="cell14">14</string>
+    <string name="cell15">15</string>
+    <string name="cell16">16</string>
+    <string name="cell17">17</string>
+    <string name="cell18">18</string>
+
+    <string name="cell19">19</string>
+    <string name="cell20">20</string>
+    <string name="cell21">21</string>
+    <string name="cell22">22</string>
+    <string name="cell23">23</string>
+    <string name="cell24">24</string>
+
+    <string name="cell25">25</string>
+    <string name="cell26">26</string>
+    <string name="cell27">27</string>
+    <string name="cell28">28</string>
+    <string name="cell29">29</string>
+    <string name="cell30">30</string>
+
+    <string name="cell31">31</string>
+    <string name="cell32">32</string>
+    <string name="cell33">33</string>
+    <string name="cell34">34</string>
+    <string name="cell35">35</string>
+    <string name="cell36">36</string>
+
+    <string name="pic_puz">"படத்தில் என்ன இருக்கிறது ???"</string>
+
+    <string name="hints"><b><u>இடமிருந்து வலம்</u></b>\n\n
+1 . பூட்டை திறந்து கொள்ளத் தேவை.\n\n
+4 . குதிரைக்கும் இவ்வாறு ஒரு பெயருண்டு.(தலைகீழான சாெல்)\n\n
+7 . அறிவை வளர்ப்பதாயின், அவசியம் தேடிக்கொள்ள வேண்டும்.\n\n
+11 . அண்ணாந்து பார்த்தல், மேலே அகன்று, விரிந்து எல்லையற்று தெரிவது. (தலைகீழான சாெல்)\n\n
+19 . இல்லம் , உள்ளம் என்பதற்கெல்லாம் இச்சொல் பொருந்தும்.
+ (தலைகீழான சாெல்)\n\n
+28 . இப்பறவை பறப்பதில்லை. ஆனால் நீரின் மேற்பரப்பில் மிதந்தபடி , இலகுவாக நீந்தியபடி , சிறு மீன்களையும் பூச்சிகளையும் இரையாகக் கொள்ளும்.\n\n
+31 . கரும்புக்கு ஒத்தப்பொருள் சொல்.\n\n
+
+        <b><u>மேலிருந்து  கீழ்</u></b>\n\n
+1 . புவியின் மேற்பரப்பின் முக்கால் பங்கை மூடியிருக்கிறது.\n\n
+2 . அம்பை எய்து கொள்வதற்கு இது தேவை.\n\n
+5 . கால்நடை வளர்ப்பு , விவசாய செய்கை போன்றவையெல்லாம் கொண்ட நிலப்பகுதி.\n\n
+9 . மிருகங்கள் , பறவைகள் உட்பட ஏராளமான உயிரினங்களின் வாழ்விடம். (தலைகீழான சாெல்)\n\n
+20 . அழகுக்கு மறுபெயர்.\n\n
+24 . தமிழ்நாட்டின் சரித்திர புகழ்பெற்ற நகரம் . தமிழ் வளர்ந்த இடம்.\n\n
+28 . மிருகங்களுக்கு மட்டுமன்றி நகருயிர்கள் பலவற்றுக்கும் உள்ள அவயம்.\n\n
+
+
+</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

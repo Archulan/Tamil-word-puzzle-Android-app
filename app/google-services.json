@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "911591077556",
+    "firebase_url": "https://thamizhputhir.firebaseio.com",
+    "project_id": "thamizhputhir",
+    "storage_bucket": "thamizhputhir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911591077556:android:5289f7ada0b38444",
+        "android_client_info": {
+          "package_name": "com.archulan.thamizhputhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911591077556-kdsrf2v94b4e53evra6u0i3ujh1t1s1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.archulan.thamizhputhir",
+            "certificate_hash": "e940098053a97630a88a981f7e6c827041f6f761"
+          }
+        },
+        {
+          "client_id": "911591077556-6538ocirf6dut9fcids27cgm4tcjb3ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPkJp7WRfWuK87fupRr8CpcoKt6_FjTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911591077556-lfjhkkbjgekkf2tquabpe8earepj68or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
